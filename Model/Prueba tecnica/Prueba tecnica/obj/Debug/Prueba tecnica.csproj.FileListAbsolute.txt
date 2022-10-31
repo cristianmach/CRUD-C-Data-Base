@@ -1,0 +1,17 @@
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\bin\Debug\Prueba tecnica.exe.config
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\bin\Debug\Prueba tecnica.exe
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\bin\Debug\Prueba tecnica.pdb
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\bin\Debug\EntityFramework.dll
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\bin\Debug\EntityFramework.xml
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\obj\Debug\Prueba tecnica.csproj.AssemblyReference.cache
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\obj\Debug\Prueba tecnica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\obj\Debug\Prueba_tecnica.Properties.Resources.resources
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\obj\Debug\Prueba tecnica.csproj.GenerateResource.cache
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\obj\Debug\Prueba tecnica.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\obj\Debug\Prueba tecnica.csproj.CopyComplete
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\obj\Debug\Prueba tecnica.exe
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\obj\Debug\Prueba tecnica.pdb
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba tecnica\Prueba tecnica\obj\Debug\Prueba_tecnica.Inicio.resources
+C:\Users\Personal\Desktop\PRUEBA TECNICA Ziur Software Colombia SAS\Model\Prueba Tecnica\Prueba tecnica\obj\Debug\Prueba_tecnica.Clientes.resources
